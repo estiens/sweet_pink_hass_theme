@@ -32,7 +32,8 @@ sweetpink:
   
   paper-card-background-color: "var(--gray-dark)"
   paper-card-header-color: "#var(--paper-item-icon-color)"
-  
+  card-background-color: "var(--paper-card-background-color)"
+
   paper-item-icon-color: "var(--pink)"
   paper-listbox-background-color: "var(--indigo)"
   paper-listbox-color: "var(--light)"
