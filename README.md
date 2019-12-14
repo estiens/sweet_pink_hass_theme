@@ -29,3 +29,4 @@ Hacker Elite meets Moog Synths meets Miami Vice tempered towards a masculine und
 ![alt text](https://raw.githubusercontent.com/estiens/sweet_pink_hass_theme/master/_screenshots/three.png)
 ![alt text](https://raw.githubusercontent.com/estiens/sweet_pink_hass_theme/master/_screenshots/four.png)
 ![alt text](https://raw.githubusercontent.com/estiens/sweet_pink_hass_theme/master/_screenshots/five.png)
+![alt text](https://raw.githubusercontent.com/estiens/sweet_pink_hass_theme/master/_screenshots/seven.png)
