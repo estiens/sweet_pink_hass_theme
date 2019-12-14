@@ -1,4 +1,4 @@
-# sweet_pink_hass_theme
+# Sweet Pink theme for Home Assistant
 
 Theme for home assistant that makes use of pinks and purples and maybe some teal
 
@@ -8,7 +8,7 @@ Stay tuned for more customizations, fancy javascript, and maybe even a backgroun
 
 # HACS
 
-Trying to get this into HACS, still new to this whole ecosystem and not sure how yet
+You can install this via HACS and keep it up to date. I highly recommend going that route.
 
 # Installation
 
