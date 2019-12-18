@@ -22,6 +22,7 @@ sweetpink:
   primary-background-color: "var(--dark)"
   primary-text-color: "var(--light)"
   light-primary-color: "var(--cyan)"
+  accent-color: "var(--teal)"
 
   secondary-background-color: "var(--gray)"
   secondary-text-color: "var(--cyan)"
