@@ -22,6 +22,10 @@ There's a lot of custom cards out there now that use their own classes and style
 
 Hacker Elite meets Moog Synths meets Miami Vice tempered towards a masculine understanding of the feminine
 
+# Contributors
+
+@estiens, @ludeeus
+
 # Screenshots
 
 ![alt text](https://raw.githubusercontent.com/estiens/sweet_pink_hass_theme/master/_screenshots/one.png)
