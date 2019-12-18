@@ -62,3 +62,10 @@ sweetpink:
 
   switch-unchecked-color: "var(--teal)"
   switch-unchecked-button-color: "var(--teal)"
+    
+  # Themable CCS vars in HACS (https://hacs.xyz/docs/basic/theming)
+  link-text-color: "var(--cyan)"
+  hacs-status-installed: "var(--teal)"
+  hacs-status-pending-restart: "var(--indigo)"
+  hacs-status-pending-update: "var(--purple)"
+  hacs-status-not-loaded: "var(--indigo)"
